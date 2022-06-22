@@ -19,7 +19,13 @@ function StoryReel() {
         image="images/Teacher.jpeg" 
         profileSrc="images/uni.jpeg"
         title="Kenish"
-      />
+      />   
+
+      <Story
+        image="images/Teacher.jpeg" 
+        profileSrc="images/uni.jpeg"
+        title="Kenish"
+      />   
       <Story
         image="images/Teacher.jpeg" 
         profileSrc="images/elon.jpeg"
