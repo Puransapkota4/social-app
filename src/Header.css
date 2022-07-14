@@ -17,7 +17,7 @@
 .header__input{
     display: flex;
     align-items: center;
-    background-color: #eff2f5;
+    background-color: lightgoldenrodyellow;
     padding: 10 px;
     margin-left: 10px;
     border-radius: 999px;
@@ -43,11 +43,11 @@
     color: gray;
 }
 .header__option:hover > .MuiSvgIcon-root {
-    color: lightcoral;
+    color: black;
 }
 
 .header__option--active > .MuiSvgIcon-root {
-    color: lightcoral;
+    color: black;
 }
 
 .header__option--active{
