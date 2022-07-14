@@ -61,3 +61,8 @@
 .post__option > p {
     margin-left: 10px;
 }
+
+.post__option:hover{
+    background-color:silver ;
+    border-radius:10px ;
+}

@@ -16,11 +16,11 @@ function Header() {
     <div className="header">
         <div className='header__left'>
             <img
-             src="images/real.webp" alt=''
+             src="https://tse1.mm.bing.net/th?id=OIP.YEjd9sUvheE5beF6dqP1HwHaGJ&pid=Api&P=0&w=223&h=185" alt='Real friends'
             />
             <div className="header__input">
                 <SearchIcon/>
-                <input placeholder='Search Friends' type={"text"}/>
+                <input placeholder='Search your interest' type={"text"}/>
             </div>
         </div>
 
@@ -45,7 +45,7 @@ function Header() {
 
         <div className='header__right'>
             <div className='header__info'>
-                <Avatar />
+                <Avatar img src='https://scontent.fsyd10-1.fna.fbcdn.net/v/t39.30808-6/278099234_4869115556469497_4717359204624575567_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7oNSICvs-lwAX_ZdFRa&_nc_ht=scontent.fsyd10-1.fna&oh=00_AT8H63gaOyoagtzxMqHDoUWtX0rUqfIdSDXleFn3gkW6Cg&oe=62BDB794'/>
                 <h4>Puran</h4>
             </div>
             <IconButton>

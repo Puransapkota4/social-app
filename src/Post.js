@@ -50,8 +50,6 @@ function Post({profilePic, image, username, timestamp, message}) {
             <div className='post__option'>
                 <AccountCircleIcon/>
                 <ExpandMoreIcon/>
-                
-                
             </div>
 
         </div>
